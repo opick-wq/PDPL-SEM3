@@ -1,3 +1,5 @@
+package pertemuan12.One;
+
 public class RealImage implements Image{
   
   public String fileName;

@@ -1,4 +1,4 @@
-package Proxy; 
+package pertemuan12.Proxy; 
 
 public interface Internet 
 { 

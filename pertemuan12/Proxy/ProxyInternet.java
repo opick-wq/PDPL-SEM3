@@ -1,4 +1,4 @@
-package Proxy; 
+package pertemuan12.Proxy; 
 
 import java.util.ArrayList; 
 import java.util.List; 

@@ -1,3 +1,5 @@
+package pertemuan12.One;
+
 public class ProxyPatternDemo {
 
   public static void main(String[] args) {

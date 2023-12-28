@@ -1,3 +1,5 @@
+package pertemuan12.One;
+
 public class ProxyImage implements Image{
 
   private RealImage realImage;
